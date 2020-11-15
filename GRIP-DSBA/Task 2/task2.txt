@@ -1,6 +1,4 @@
-Task 2 Question:
-From the given ‘Iris’ dataset, predict the optimum number of clusters and
-represent it visually.
+Prediction using Unsupervised ML
 
-Answer :
-Using KMeans clustering technique and Elbow method I have found that 3 optimum clusters are possible with given Iris dataset.
+
+● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
